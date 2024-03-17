@@ -57,21 +57,20 @@ I use these programs regularly, some are used on my own computers but many are t
   - Autoruns
   - Disk2vhd
   - Process Explorer
-  - Prcoess Monitor
+  - Process Monitor
   - Psexec.exe
   - TCPView
   - Many more
  
 ## Self Hosted Applications
-- [HestiaCP](https://github.com/hestiacp/hestiacp)
+- [HestiaCP](https://github.com/hestiacp/hestiacp) (Web server control panel)
 - [InvoicePlane](https://github.com/InvoicePlane/InvoicePlane)
-- [Portainer](https://github.com/portainer/portainer)
-- [Dockge](https://github.com/louislam/dockge)
-- [Minio](https://github.com/minio/minio)
-- [Nextcloud](https://github.com/nextcloud)
-- [Cal.com](https://github.com/calcom/cal.com)
-- [Nextcloud](https://nextcloud.com/)
-- [Proxmox](https://proxmox.com/en/)
+- [Portainer](https://github.com/portainer/portainer) (Docker management)
+- [Dockge](https://github.com/louislam/dockge) (Docker management)
+- [Minio](https://github.com/minio/minio) (Object storage)
+- [Cal.com](https://github.com/calcom/cal.com) (Scheduling)
+- [Nextcloud](https://nextcloud.com/) (File sharing)
+- [Proxmox](https://proxmox.com/en/) (VM hypervisor and containers)
 
 ## Learning / Research / Reference
 - https://reddit.com (My tech subreddits: https://old.reddit.com/user/johnscs_com/m/tech)
@@ -85,8 +84,8 @@ I use these programs regularly, some are used on my own computers but many are t
 - [Powershell alias reference](http://xahlee.info/powershell/powershell_aliases.html)
 
 ## Paid Applications Honorable Mentions
-- Beyond Compare
+- Tailscale (Overlay network, free basic usage)
+- Beyond Compare (File comparison)
 - Paragon Hard Disk Manager
-- Shapr3D
-- Tailscale (Free basic usage)
-- Termius
+- Shapr3D (3D modeling, free basic usage)
+- Termius (SSH client, free basic usage)
