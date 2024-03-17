@@ -37,12 +37,7 @@ I use these programs regularly, some are used on my own computers but many are t
   - [Libre Office](https://www.libreoffice.org/)
   - [OBS Studio](https://obsproject.com/)
 
-- [Stefankueng Tools](https://tools.stefankueng.com/)
-  - grepWin (Search file content)
-  - DemoHelper
-  - SKTimeStamp
-
-- [Nirsoft](https://www.nirsoft.net/)
+- [Nirsoft Tools](https://www.nirsoft.net/)
   - Advancedrun (Run as special users or with special options)
   - Full EventLogView
   - HashMyFiles (Can add a context menu option)
@@ -61,6 +56,11 @@ I use these programs regularly, some are used on my own computers but many are t
   - Psexec.exe
   - TCPView
   - Many more
+
+- [Stefankueng Tools](https://tools.stefankueng.com/)
+  - grepWin (Search file content of folders)
+  - DemoHelper
+  - SKTimeStamp
  
 ## Self Hosted Applications
 - [HestiaCP](https://github.com/hestiacp/hestiacp) (Web server control panel)
