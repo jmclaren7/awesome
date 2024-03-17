@@ -1,50 +1,56 @@
 # Awesome
-This is a list of free and/or open source programs and tools useful to techs and power users. I use these programs regularly, some are used on my own computer but many are tools that I use while working for my clients.
+An awesome list of free and/or open source programs and tools useful to techs and enthusiasts. 
+
+I use these programs regularly, some are used on my own computers but many are tools that I use while working for my clients. Some have a niche feature that make them more valuable to me compared to a batter alternative so I list multiple programs that serve the same purpose in some cases.
 
 ## For Windows
-- [Nilesoft shell](https://nilesoft.org/) (Right click menu)
-- [AutoIt](https://www.autoitscript.com/) (Windows scripting)
-- [Powertoys](https://github.com/microsoft/PowerToys)
-- [FileConverter](https://github.com/Tichau/FileConverter)
-- [WizTree](https://www.diskanalyzer.com/) (Disk usage analyzer)
-
-- [WingetUI](https://github.com/marticliment/WingetUI)
-- [Everything](https://www.voidtools.com/) (File search)
-- [WizFile](https://www.diskanalyzer.com/) (File search)
-- [qBittorrent](https://www.qbittorrent.org/)
-- [VLC](https://www.videolan.org/) (Media Player)
-- [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
-- CPUz
-- 7-zip
-- Rufus
-- Explorer++
-- DiskInfo
-- DiskMark
-- [AdvancedIPScanner](https://www.advanced-ip-scanner.com/)
-- [NetSetMan](https://www.netsetman.com/)
-- Putty
-- Kitty
-- WinSCP
-- Ninite
-- Restic
-- [S3Browser](https://s3browser.com/)
-- [KeePassXC](https://keepassxc.org/)
-- Libre Office
-- OBS Studio
+- Networking
+  - [AdvancedIPScanner](https://www.advanced-ip-scanner.com/)
+  - [NetSetMan](https://www.netsetman.com/)
+  - [Kitty](https://github.com/cyd01/KiTTY) & [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+  - [WinSCP](https://winscp.net/eng/index.php)
+- Disk & Files
+  - [FileConverter](https://github.com/Tichau/FileConverter)
+  - [WizTree](https://www.diskanalyzer.com/) (Disk usage analyzer)
+  - [Everything](https://www.voidtools.com/) & [WizFile](https://www.diskanalyzer.com/) (File search)
+  - [7-zip](https://www.7-zip.org/)
+  - [Explorer++](https://github.com/derceg/explorerplusplus)
+  - [DiskInfo & DiskMark](https://crystalmark.info/en/)
+  - [Restic](https://github.com/restic/restic) (Simple and efficient backups)
+  - (My Project) [Restic Backup GUI/Helper](https://github.com/jmclaren7/restic-simple-backup)
+- Automation
+  - [AutoIt](https://www.autoitscript.com/) (Windows scripting)
+  - [Ninite](https://ninite.com/) (One click installers)
+  - [Winget](https://github.com/microsoft/winget-cli) & [WingetUI](https://github.com/marticliment/WingetUI)
+  - (My Project) [Windows Setup Helper](https://github.com/jmclaren7/windows-setup-helper) (Custom WinPE/Installer)
+  - (My Project) [Office365 Download/Install Tool](https://github.com/jmclaren7/auto-office-365)
+- Other
+  - [Nilesoft shell](https://nilesoft.org/) (Custom context menu)
+  - [Powertoys](https://github.com/microsoft/PowerToys)
+  - [qBittorrent](https://www.qbittorrent.org/)
+  - [VLC](https://www.videolan.org/) (Media Player)
+  - [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
+  - [CPUz](https://www.cpuid.com/softwares/cpu-z.html)
+  - [Rufus](https://github.com/pbatard/rufus) (Image to USB)
+  - [S3Browser](https://s3browser.com/)
+  - [KeePassXC](https://keepassxc.org/) (Password manager)
+  - [Libre Office](https://www.libreoffice.org/)
+  - [OBS Studio](https://obsproject.com/)
 
 - [Stefankueng Tools](https://tools.stefankueng.com/)
-  - grepWin
+  - grepWin (Search file content)
   - DemoHelper
   - SKTimeStamp
 
 - [Nirsoft](https://www.nirsoft.net/)
-  - Advancedrun
+  - Advancedrun (Run as special users or with special options)
   - Full EventLogView
-  - HashMyFiles
+  - HashMyFiles (Can add a context menu option)
   - NK2Edit
   - PingInfoView
   - TurnedOnTimesView
   - WakeMeOnLan
+  - Many more
 
 - [Sysinternals Tools](https://learn.microsoft.com/en-us/sysinternals/)
   - Autologon
@@ -54,23 +60,33 @@ This is a list of free and/or open source programs and tools useful to techs and
   - Prcoess Monitor
   - Psexec.exe
   - TCPView
+  - Many more
  
-## Self Hosted Web Applications
-- HestiaCP
-- InvoicePlane
-- Portainer
-- Dockge
-- Minio
-- Nextcloud
-- Cal.com
-- Nextcloud
+## Self Hosted Applications
+- [HestiaCP](https://github.com/hestiacp/hestiacp)
+- [InvoicePlane](https://github.com/InvoicePlane/InvoicePlane)
+- [Portainer](https://github.com/portainer/portainer)
+- [Dockge](https://github.com/louislam/dockge)
+- [Minio](https://github.com/minio/minio)
+- [Nextcloud](https://github.com/nextcloud)
+- [Cal.com](https://github.com/calcom/cal.com)
+- [Nextcloud](https://nextcloud.com/)
+- [Proxmox](https://proxmox.com/en/)
 
-## Others
-- Proxmox
+## Learning / Research / Reference
+- https://reddit.com (My tech subreddits: https://old.reddit.com/user/johnscs_com/m/tech)
+- https://admx.help
+- https://m365maps.com
+- https://overapi.com
+- https://virusTotal.com
+- https://MXToolbox.com
+- [SystemD vs SysVinit](https://github.com/jmclaren7/awesome/blob/main/images/SystemD-vs-SysVinit.png)
+- [Linux file system layout](https://github.com/jmclaren7/awesome/blob/main/images/Linux-File-System.jpg)
+- [Powershell alias reference](http://xahlee.info/powershell/powershell_aliases.html)
 
-## Paid Applications Honerable Mentions
-- [Beyond Compare](https://www.scootersoftware.com/)
+## Paid Applications Honorable Mentions
+- Beyond Compare
 - Paragon Hard Disk Manager
-- Shapr3D.
+- Shapr3D
 - Tailscale (Free basic usage)
 - Termius
