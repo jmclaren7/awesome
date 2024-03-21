@@ -1,7 +1,7 @@
 # Awesome
 An awesome list of free and/or open source programs and tools useful to techs and enthusiasts. 
 
-I use these programs regularly, some are used on my own computers but many are tools that I use while working for my clients. Some have a niche feature that make them more valuable to me compared to a batter alternative so I list multiple programs that serve the same purpose in some cases.
+I use these programs regularly, some are used on my own computers but many are tools that I use while working for my clients. Some have a niche feature that make them more valuable to me compared to a better alternative so I list multiple programs that serve the same purpose in some cases.
 
 ## For Windows
 - Networking
@@ -13,6 +13,7 @@ I use these programs regularly, some are used on my own computers but many are t
   - [FileConverter](https://github.com/Tichau/FileConverter)
   - [WizTree](https://www.diskanalyzer.com/) (Disk usage analyzer)
   - [Everything](https://www.voidtools.com/) & [WizFile](https://www.diskanalyzer.com/) (File search)
+  - [grepWin](https://tools.stefankueng.com/) (Search file content)
   - [7-zip](https://www.7-zip.org/)
   - [Explorer++](https://github.com/derceg/explorerplusplus)
   - [DiskInfo & DiskMark](https://crystalmark.info/en/)
@@ -36,6 +37,7 @@ I use these programs regularly, some are used on my own computers but many are t
   - [KeePassXC](https://keepassxc.org/) (Password manager)
   - [Libre Office](https://www.libreoffice.org/)
   - [OBS Studio](https://obsproject.com/)
+  - [DemoHelper](https://tools.stefankueng.com/)
 
 - [Nirsoft Tools](https://www.nirsoft.net/)
   - Advancedrun (Run as special users or with special options)
@@ -56,11 +58,6 @@ I use these programs regularly, some are used on my own computers but many are t
   - Psexec.exe
   - TCPView
   - Many more
-
-- [Stefankueng Tools](https://tools.stefankueng.com/)
-  - grepWin (Search file content of folders)
-  - DemoHelper
-  - SKTimeStamp
  
 ## Self Hosted Applications
 - [HestiaCP](https://github.com/hestiacp/hestiacp) (Web server control panel)
