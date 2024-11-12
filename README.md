@@ -38,6 +38,8 @@ I use these programs regularly, some are used on my own computers but many are t
   - [Libre Office](https://www.libreoffice.org/)
   - [OBS Studio](https://obsproject.com/)
   - [DemoHelper](https://tools.stefankueng.com/)
+  - [UniGetUI](https://github.com/marticliment/UniGetUI)
+  - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)
 
 - [Nirsoft Tools](https://www.nirsoft.net/)
   - Advancedrun (Run as special users or with special options)
